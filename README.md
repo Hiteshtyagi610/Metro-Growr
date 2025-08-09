@@ -29,7 +29,7 @@ The project is built with a **modern, clean UI** and focuses on enhancing the ga
 ---
 
 ## 📬 Connect with Me
-- **LinkedIn:** [Hitesh Tyagi](https://www.linkedin.com/in/hiteshtyagi610)  
+- **LinkedIn:** [Hitesh Tyagi](https://www.linkedin.com/in/hitesh-tyagi-1838a4282/)  
 - **GitHub:** [@hiteshtyagi610](https://github.com/hiteshtyagi610)
 
 ---
